@@ -54,7 +54,7 @@ I am always eager to learn emerging technologies, contribute to impactful projec
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MistryVishwa&theme=tokyo-night&hide_border=true&area=true" alt="Vishwa's Contribution Graph"/>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=MistryVishwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vishwa's GitHub Stats"/>
+  <!-- <img height="200" src="https://github-readme-stats.vercel.app/api?username=MistryVishwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vishwa's GitHub Stats"/> -->
   <img height="200" src="https://streak-stats.demolab.com/?user=MistryVishwa&theme=tokyonight&hide_border=true" alt="Vishwa's Streak"/>
 </p>
 
