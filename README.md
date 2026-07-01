@@ -115,3 +115,33 @@ https://nestspace-interiors.vercel.app/
 - 📧 **Email:** [vishwamistry18@gmail.com](mailto:vishwamistry18@gmail.com)
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/vishwa-mistry/](https://www.linkedin.com/in/vishwa-mistry/)
 - 🎮 **Discord:** [vishwa_mistry](https://discord.com/users/1496394752093065320)
+
+---
+
+### 📊 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MistryVishwa&style=flat-square&color=0ea5e9&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting. Keep building, keep learning.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Let%27s+connect+and+create+together%21" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishwa-mistry/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vishwamistry18@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://discord.com/users/1496394752093065320">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
