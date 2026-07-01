@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vishwa Mistry</h1>
-<h3 align="center">WordPress & PHP Web Developer | MCA Student | AI & GenAI Explorer</h3>
+<p align="center">
+  <img src="assets/top.svg" alt="Vishwa Mistry Banner" width="100%" />
+</p>
+<!-- <h1 align="center">Hi 👋, I'm Vishwa Mistry</h1>
+<h3 align="center">WordPress & PHP Web Developer | MCA Student | AI & GenAI Explorer</h3> -->
+
+---
 
 <p align="center">
   <a href="mailto:vishwamistry18@gmail.com">
@@ -23,9 +28,9 @@ I enjoy developing clean, maintainable, and user-focused web applications using 
 
 Currently, I am pursuing a **Master of Computer Applications (MCA)** at **Parul University**, where I am expanding my knowledge in **Artificial Intelligence, Generative AI, AI Agents, SaaS application development, automation tools, APIs, and full-stack web technologies**.
 
-Beyond academics and professional work, I actively contribute to **open-source projects** through programs like **GirlScript Summer of Code (GSSoC)** and **Nexus Spring of Code**, where I collaborate with developers, contribute meaningful features and bug fixes, review code, and strengthen my software engineering skills.
+I actively contribute to **open-source projects** through programs like **GirlScript Summer of Code (GSSoC)** and **Nexus Spring of Code**, where I collaborate with developers, contribute meaningful features and bug fixes, review code, and strengthen my software engineering skills.
 
-I am always eager to learn emerging technologies, contribute to impactful projects, and build innovative digital solutions that combine modern web development with AI-powered experiences.
+I always learn emerging technologies, contribute to impactful projects, and build innovative digital solutions that combine modern web development with AI-powered experiences.
 
 ---
 
@@ -268,11 +273,17 @@ As a Project Admin at Social Summer of Code (SSOC), I support the open-source co
 
 ## 💻 Currently Learning
 
-* 🤖 Generative AI (Gen AI)
-* 🧠 AI Agents Development
-* 💻 AI Powered Applications
-* ⚡ AI Tools & Automation
-* ✨ Prompt Engineering
+- 🤖 Generative AI (GenAI)
+- 🧠 AI Agents Development
+- 💻 AI-Powered Applications
+- ⚡ AI Tools & Automation
+- ✨ Prompt Engineering
+- 🌐 Full-Stack Web Development
+- ☁️ Cloud Computing (AWS & Azure Basics)
+- 🔒 Web Security Best Practices
+- 🧪 Testing & Debugging
+- 🤝 Open Source Development
+- 🛠️ SaaS Application Development
 
 ---
 
@@ -306,10 +317,6 @@ https://nestspace-interiors.vercel.app/
 ---
 
 <p align="center">
-  Thanks for visiting. Keep building, keep learning.
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Let%27s+connect+and+create+together%21" alt="Typing SVG"/>
 </p>
 
@@ -323,4 +330,13 @@ https://nestspace-interiors.vercel.app/
   <a href="https://discord.com/users/1496394752093065320">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="assets/bottom.svg" alt="Footer Banner" width="100%" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile ❤️</b><br>
+  Happy Coding 🚀
 </p>
