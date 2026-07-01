@@ -49,6 +49,198 @@ I am always eager to learn emerging technologies, contribute to impactful projec
 
 ---
 
+## 💼 Experience
+
+### Project Admin — Social Summer of Code (SSOC)
+
+📅 **June 2026 – Present**
+
+- Managing assigned open-source projects.
+- Reviewing contributor pull requests.
+- Guiding contributors throughout the program.
+- Coordinating issue assignments and project progress.
+- Supporting maintainers and ensuring smooth collaboration.
+
+<p align="left">
+<sub>────────────────────────────────────────────────────────────────────────────────</sub>
+</p>
+
+### Open Source Contributor — GirlScript Summer of Code 2026 (GSSoC'26)
+
+📅 **May 2026 – Present**
+
+- Selected as an Open Source Contributor.
+- Contributing features, bug fixes and documentation improvements.
+- Collaborating with mentors, maintainers and developers.
+- Working with Git, GitHub, Pull Requests and Issue Tracking.
+- Improving software engineering and open-source collaboration skills.
+
+<p align="left">
+<sub>────────────────────────────────────────────────────────────────────────────────</sub>
+</p>
+
+### Jr. Web Developer — Sanghvi Technosoft
+📅 **Oct 2023 – Present**
+
+- Developing custom WordPress websites and PHP websites.
+- Optimizing website performance, security and SEO.
+- Custom website development, Elementor customization, WooCommerce, website maintenance, responsive design, and performance optimization.
+
+<p align="left">
+<sub>────────────────────────────────────────────────────────────────────────────────</sub>
+</p>
+
+### Open Source Contributor — Nexus Spring of Code (NSoC)
+
+📅 **Apr 2026 – Jun 2026**
+
+- Selected as an Open Source Contributor.
+- Worked on real-world GitHub repositories.
+- Implemented feature enhancements and bug fixes.
+- Collaborated with project maintainers and contributors.
+- Strengthened development workflow and version control skills.
+
+<p align="left">
+<sub>────────────────────────────────────────────────────────────────────────────────</sub>
+</p>
+
+### PHP Web Developer Trainee — CMSWebServices
+
+📅 **Jun 2023 – Oct 2023**
+
+- Completed intensive training in **HTML5, CSS3, Core PHP, WordPress (Frontend), JavaScript, and MySQL**.
+- Built responsive and user-friendly web pages using modern web development practices.
+- Worked on multiple **WordPress website projects**, including theme customization and website maintenance.
+- Assisted in fixing bugs, implementing new features, and improving website performance.
+- Gained hands-on experience with **Git**, debugging, and collaborative development workflows.
+- Successfully completed all assigned tasks and projects under the guidance of senior developers.
+
+<p align="left">
+<sub>────────────────────────────────────────────────────────────────────────────────</sub>
+</p>
+
+### Python Developer Intern — BrainyBeam Technologies
+
+📅 **Jun 2022 – Jan 2023**
+
+- Learned **Python programming**, HTML5, CSS3, JavaScript fundamentals, and basic web development concepts.
+- Built an **E-Commerce Website** as the major internship project using Python and web technologies.
+- Worked with Python fundamentals including file handling, functions, object-oriented programming, and basic database connectivity.
+- Developed responsive user interfaces using HTML, CSS, and Bootstrap.
+- Strengthened problem-solving, debugging, and software development skills through practical assignments.
+- This internship laid the foundation for my college academic projects in web development.
+
+---
+
+## 🚀 Open Source Contributions & Achievements
+
+I actively participate in Open Source programs by contributing to real-world GitHub repositories, collaborating with maintainers and developers, resolving bugs, implementing new features, improving documentation, and strengthening my software engineering skills through community-driven development.
+
+### GirlScript Summer of Code 2026 (GSSoC'26)
+
+**Role:** Open Source Contributor
+
+📅 **May 2026 – Present**
+
+GirlScript Summer of Code (GSSoC) is one of India's largest open-source programs that provides contributors with the opportunity to work on real-world projects under the guidance of experienced mentors and maintainers.
+- Contributed to real-world open-source repositories.
+- Developed new features and enhancements.
+- Fixed bugs and resolved GitHub issues.
+- Improved project documentation.
+- Worked with Git, GitHub, Pull Requests, and Issue Tracking.
+- Collaborated with project maintainers and fellow contributors.
+
+<p align="left">
+
+<img src="assets/gssoc-badge-role_contributor.png" width="95"/>
+
+<img src="assets/gssoc-badge-rising_star.png" width="95"/>
+
+<img src="assets/gssoc-badge-profile_complete.png" width="95"/>
+
+<img src="assets/gssoc-badge-getting_started.png" width="95"/>
+
+<img src="assets/gssoc-badge-first_steps.png" width="95"/>
+
+<img src="assets/gssoc-badge-discord_verified.png" width="95"/>
+
+<img src="assets/gssoc-badge-bounty_master.png" width="95"/>
+
+<img src="assets/gssoc-badge-bounty_hunter.png" width="95"/>
+
+</p>
+
+🔗 **Profile:**  
+https://gssoc.girlscript.org/profile/f38025f9-6788-4274-8cf6-eedf2879b505
+
+<p align="left">
+<sub>────────────────────────────────────────────────────────────────────────────────</sub>
+</p>
+
+### Nexus Spring of Code (NSoC)
+
+**Role:** Open Source Contributor
+
+📅 **Apr 2026 – Jun 2026**
+
+Nexus Spring of Code (NSoC) is an open-source initiative focused on encouraging developers to contribute to impactful software projects while learning collaborative development practices.
+- Contributed to multiple GitHub repositories.
+- Implemented new features and enhancements.
+- Fixed bugs and improved project quality.
+- Participated in issue discussions and code reviews.
+- Worked extensively with Git, GitHub, branches, and pull requests.
+- Collaborated with project maintainers and contributors.
+- Improved problem-solving and software engineering skills.
+
+<p align="left">
+<img src="assets/NSOC 1st badge.png" width="95"/>
+  
+<img src="assets/Contributor.png" width="95"/>
+</a>
+
+</p>
+
+🔗 **Profile:** 
+https://www.nsoc.in/leaderboard
+
+<p align="left">
+<sub>────────────────────────────────────────────────────────────────────────────────</sub>
+</p>
+
+### Social Summer of Code (SSOC)
+
+**Role:** Project Admin
+
+📅 **2026 – Present**
+
+As a Project Admin at Social Summer of Code (SSOC), I support the open-source community by managing projects and mentoring contributors.
+- Managing assigned open-source repositories.
+- Reviewing Pull Requests and contributions.
+- Guiding contributors throughout the program.
+- Assigning issues and maintaining project workflows.
+- Collaborating with maintainers and organizers.
+- Ensuring smooth project progress and code quality.
+
+<!-- <p align="left">
+
+<img src="assets/ssoc-admin-card.png" width="320"/>
+
+</p> -->
+
+---
+
+## 🏅 Open Source Highlights
+
+- 🌸 Open Source Contributor — GirlScript Summer of Code 2026 (GSSoC'26)
+- 🚀 Open Source Contributor — Nexus Spring of Code (NSoC)
+- 🛡️ Project Admin — Social Summer of Code (SSOC)
+- 💻 Active contributor to real-world GitHub repositories.
+- 🐛 Experience in bug fixing, feature development, and documentation improvements.
+- 🤝 Collaborated with maintainers, mentors, and contributors across multiple Open Source communities.
+- ⚡ Strong understanding of Git, GitHub, Pull Requests, Issues, and collaborative development workflows.
+  
+---
+
 ### 📊 GitHub Analytics
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MistryVishwa&theme=tokyo-night&hide_border=true&area=true" alt="Vishwa's Contribution Graph"/>
@@ -71,19 +263,6 @@ I am always eager to learn emerging technologies, contribute to impactful projec
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MistryVishwa&theme=tokyonight" alt="Vishwa's Profile Summary"/>
 </p>
-
----
-
-## 💼 Experience
-
-**Jr. Web Developer — Sanghvi Technosoft**  
-📅 Oct 2023 – Present  
-
-**PHP Web Developer Trainee — CMSWebServices**  
-📅 June 2023 – Oct 2023  
-
-**Python Developer Intern — BrainyBeam Technologies**  
-📅 June 2022 – Jan 2023  
 
 ---
 
